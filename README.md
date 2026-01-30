@@ -36,7 +36,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-* Your Name [@yourusername](https://twitter.com/yourusername)
+* Lucas Antonio Flores [@LucasAntonioFlores](https://twitter.com/tacogenius3)
 
 ## Version History
 
